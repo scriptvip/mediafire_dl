@@ -16,7 +16,7 @@ It is necessary to have **python3** and **pip3**
 ## Installation
 
 ```bash
-pip3 install git+https://github.com/scriptvip/mediafire-dl
+pip3 install git+https://github.com/scriptvip/mediafire_dl
 ```
 
 ## Usage
